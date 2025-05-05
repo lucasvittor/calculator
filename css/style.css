@@ -17,7 +17,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: url(https://wallpapers-hub.art/wallpaper-images/552334.jpg) no-repeat center center fixed;
+  background: url(/Img/jesus.jpg) no-repeat center center fixed;
   background-size: cover;
 }
 
@@ -30,7 +30,7 @@ body {
 }
 
 .calbody {
-  background-color: rgba(2, 9, 14, 0.404);
+  background-color: rgba(117, 0, 45, 0.404);
   padding: clamp(1rem, 2.5%, 2rem);
   border-radius: 20px;
   font-size: 1rem;
@@ -51,7 +51,6 @@ body {
   font-size: 1.6rem;
   overflow-x: auto;
   white-space: nowrap;
-  background-color: #02090e;
   border-radius: 15px;
   margin-bottom: 1rem;
   box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.2);
@@ -90,11 +89,11 @@ body {
 }
 
 .orangebutton {
-  color: #0060f0;
+  color: #ff0000;
 }
 
 .equalbutton {
-  background-color: #0060f0;
+  background-color: #ff0000;
   color: #ffffff;
   border-radius: 50%;
 }
